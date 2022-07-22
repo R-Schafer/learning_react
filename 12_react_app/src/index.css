@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
